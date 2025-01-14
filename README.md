@@ -314,7 +314,7 @@ Los parámetros `pid_file` definen el archivo donde se almacenará el ID de proc
 
 Este proceso se ilustra en la siguiente imagen:
 
-![Edición del archivo de configuración de Mosquitto](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/11.permissions_installation_mosquitto.png)
+![Edición del archivo de configuración de Mosquitto](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/11.Permissions_installation_mosquitto.png)
 
 *Edición del archivo de configuración de Mosquitto.*
 
