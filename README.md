@@ -325,7 +325,7 @@ Este proceso se ilustra en la siguiente imagen:
 Para ejecutar Mosquitto como un contenedor Docker, utiliza el siguiente comando:
 
 ```bash
-docker run -d --name mosquitto --network iot-network --ip 172.22.0.2 -p 1883:1883 -v /home/usuario/mosquitto/config:/mosquitto/config -v/home/usuario/mosquitto/data:/mosquitto/data -v /home/usuario/mosquitto/log:/mosquitto/log eclipse-mosquitto
+docker run -d --name mosquitto --network iot-network --ip 172.22.0.2 -p 1883:1883 -v /home/usuario/mosquitto/config:/mosquitto/config -v /home/usuario/mosquitto/data:/mosquitto/data -v /home/usuario/mosquitto/log:/mosquitto/log eclipse-mosquitto
 ```
 
 Este comando crea y ejecuta el contenedor `mosquitto` en segundo plano `-d` en la red `iot-network` con una IP estática `172.22.0.2`. Además, mapea el puerto `1883` para que Mosquitto pueda ser accesible desde fuera del contenedor y monta los volúmenes locales para la configuración, los datos y los registros.
