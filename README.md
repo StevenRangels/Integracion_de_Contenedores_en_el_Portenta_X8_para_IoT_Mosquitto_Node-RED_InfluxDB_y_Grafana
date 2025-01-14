@@ -587,7 +587,7 @@ Este proceso se ilustra en la siguiente imagen:
 
 `Port`: Introduzca el puerto del servidor Mosquitto `1883`.
 
-`{Protocol`: Seleccione `MQTT V3.1.1`.
+`Protocol`: Seleccione `MQTT V3.1.1`.
 
 Mantenga los demás campos con la configuración predeterminada.
 
