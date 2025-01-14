@@ -224,7 +224,7 @@ La asignación de una IP estática ofrece varios beneficios, como evitar conflic
 
 Este proceso se ilustra en la siguiente imagen:
 
-![Asignación de una IP estática utilizando `nmcli`]([Images/](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/8.new_ip.png)
+![Asignación de una IP estática utilizando `nmcli`](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/8.new_ip.png)
 
 *Asignación de una IP estática utilizando `nmcli`.*
 
@@ -252,7 +252,7 @@ Este comando muestra la configuración de la interfaz de red `wlan0`, donde podr
 
 Este proceso se ilustra en la siguiente imagen:
 
-![Verificación de la configuración de la IP estática utilizando `ip a show wlan0`]([https://github.com/StevenRangels/ejemplo/](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/9.new_assigned_ip.png)
+![Verificación de la configuración de la IP estática utilizando `ip a show wlan0`](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/9.new_assigned_ip.png)
 
 *Verificación de la configuración de la IP estática utilizando `ip a show wlan0`.*
 
