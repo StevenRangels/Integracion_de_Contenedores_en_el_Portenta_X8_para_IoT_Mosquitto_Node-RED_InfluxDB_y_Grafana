@@ -182,7 +182,7 @@ Este comando muestra la configuración actual de la interfaz de red `wlan0`, inc
 
 Además, revise la línea (`IP4.GATEWAY`), ya que el gateway es necesario para configurar una IP estática, ya que establece el punto de acceso para la comunicación con otras redes.
 
-Una vez identificada la `IP4.address [1]` y `IP4.GATEWAY`, se puede proceder a configurar una IP estática en el dispositivo.
+Una vez identificada la (`IP4.address [1]`) y (`IP4.GATEWAY`), se puede proceder a configurar una IP estática en el dispositivo.
 
 Este proceso se ilustra en la siguiente imagen:
 
