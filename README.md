@@ -151,7 +151,7 @@ Para conectar el dispositivo a una red Wi-Fi, se utiliza el siguiente comando:
 nmcli device wifi connect "SSID" password "CONTRASEÑA"
 ```
 
-En este comando, se debe reemplazar `SSID` por el nombre de la red Wi-Fi a la que deseas conectarte y `CONTRASEÑA` por la contraseña correspondiente. Este comando establece la conexión a la red Wi-Fi desde el dispositivo, utilizando el gestor de red `nmcli`.
+En este comando, se debe reemplazar `SSID` por el nombre de la red Wi-Fi a la que deseas conectarte y `CONTRASEÑA` por la contraseña correspondiente.
 
 Es importante recordar que el `SSID` y la `CONTRASEÑA` son valores específicos de cada red, por lo que deberás adaptarlos a tu configuración.
 
