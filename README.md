@@ -701,7 +701,7 @@ Para configurar el ESP32 y conectarlo con Node-RED y el Portenta X8, siga los pa
 
 `Librería`: Instale `ArduinoMqttClient` desarrollada por Arduino desde el gestor de librerías del IDE de Arduino. 
 
-`Código`: El código para el ESP32 está disponible en: (https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Sending_MQTT_data_to_Portentax8/Sending_MQTT_data_to_Portentax8.ino).
+`Código`: El código para el ESP32 está disponible en: https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Sending_MQTT_data_to_Portentax8/Sending_MQTT_data_to_Portentax8.ino.
 
 `Configuración`: En el archivo de código, localice y modifique las siguientes variables según su configuración: 
 
