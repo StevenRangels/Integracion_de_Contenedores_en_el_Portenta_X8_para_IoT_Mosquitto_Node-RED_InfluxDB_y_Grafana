@@ -782,7 +782,11 @@ A continuación, configure los siguientes campos en la sección `HTTP`:
 
 `URL:` Introduzca `http://172.22.0.3:8086`
 
-`Auth:` Desactive `Basic auth` y marque `With Credentials`.
+En la sección `Auth:`
+
+`Basic auth` Desactive esta opción.
+
+`With Credentials` Marque esta opción.
 
 En la sección `InfluxDB Details:`
 
