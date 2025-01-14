@@ -21,11 +21,9 @@ El objetivo principal de este trabajo es presentar paso a paso cómo se realizó
 La implementación de los contenedores en el **Portenta X8** se llevó a cabo siguiendo un enfoque sistemático que involucró varios pasos clave. A continuación, se describen las etapas del proceso de instalación y configuración de los contenedores, así como las herramientas utilizadas. Cabe aclarar que este proceso se realizó en un entorno **Windows**. Los comandos pueden variar si se utilizan otros sistemas operativos.
 ## Actualización del Portenta X8
 
-Antes de continuar, es altamente recomendable **actualizar el sistema operativo** del **Portenta X8**. Las versiones antiguas suelen presentar errores que pueden afectar el desempeño general del dispositivo, especialmente en la ejecución de contenedores.
+Antes de continuar, es altamente recomendable **actualizar el sistema operativo** del **Portenta X8**. Las versiones antiguas suelen presentar errores que pueden afectar el desempeño general del dispositivo, especialmente en la ejecución y gestión de contenedores.
 
-Para realizar la actualización a la versión más reciente, visite el siguiente enlace oficial: [https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/](https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/) (Marquínez, 2024).
-
-En esta página encontrará diversos métodos para actualizar su dispositivo.
+Para realizar la actualización a la versión más reciente, visite el siguiente enlace oficial [https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/](https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/) (Marquínez, 2024), donde encontrará diversos métodos para actualizar su dispositivo.
 
 Mantener el **Portenta X8** actualizado es esencial para asegurar un funcionamiento óptimo, aprovechar las últimas mejoras y aplicar correcciones de errores.
 
