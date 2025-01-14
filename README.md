@@ -290,21 +290,11 @@ Este proceso se ilustra en la siguiente imagen:
 
 ### Edición del archivo de configuración
 
-Para modificar el archivo de configuración de Mosquitto, utiliza los siguientes comandos:
-
-1. Accede al contenedor de Mosquitto:
-
-```bash
-docker exec -it mosquitto sh
-```
-
-Este comando abre un shell dentro del contenedor.
-
-2. Edita el archivo de configuración con el siguiente comando:
+Para modificar el archivo de configuración de Mosquitto, utiliza el siguiente comando:
 
 ```bash      
-vi /mosquitto/config/mosquitto.conf
-  ```
+vi /home/usuario/mosquitto/config/mosquitto.conf
+```
   
 Este comando abre el archivo de configuración de Mosquitto en el editor `vi`. Dentro del editor, presiona la tecla `i` para habilitar el modo de inserción y pega las siguientes líneas de configuración:
 
