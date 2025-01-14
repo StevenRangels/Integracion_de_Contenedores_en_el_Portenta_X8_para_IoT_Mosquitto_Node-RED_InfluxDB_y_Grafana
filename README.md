@@ -576,8 +576,6 @@ Este proceso se ilustra en la siguiente imagen:
 
 *Configuración del servidor MQTT.*
 
-**Nota: Consulte las direcciones IP y los puertos en la Imagen \ref{fig:docker-network-inspect} para realizar la configuración correspondiente.**
-
 4. En la configuración del servidor MQTT, complete los siguientes campos:
 
 `Name`: Asigne un nombre de su preferencia.
