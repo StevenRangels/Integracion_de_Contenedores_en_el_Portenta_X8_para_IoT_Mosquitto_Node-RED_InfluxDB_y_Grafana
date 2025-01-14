@@ -252,9 +252,9 @@ Este comando muestra la configuración de la interfaz de red `wlan0`, donde podr
 
 Este proceso se ilustra en la siguiente imagen:
 
-![Verificación de la configuración de la IP estática utilizando `ip a show wlan0`](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/9.new_assigned_ip.png)
+![Verificación de la configuración de la IP estática utilizando `nmcli dev show wlan0`](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/9.new_assigned_ip.png)
 
-*Verificación de la configuración de la IP estática utilizando `ip a show wlan0`.*
+*Verificación de la configuración de la IP estática utilizando `nmcli dev show wlan0`.*
 
 ## 10. Configuración de Mosquitto
 
