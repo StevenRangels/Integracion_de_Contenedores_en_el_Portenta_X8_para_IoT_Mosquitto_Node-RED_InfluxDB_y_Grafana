@@ -155,6 +155,14 @@ En este comando, se debe reemplazar `SSID` por el nombre de la red Wi-Fi a la qu
 
 Es importante recordar que el `SSID` y la `CONTRASEÑA` son valores específicos de cada red, por lo que deberás adaptarlos a tu configuración.
 
+Posteriormente, puedes utilizar el siguiente comando para verificar el estado de los dispositivos de red:
+
+```bash
+nmcli device status
+```
+
+Este comando muestra el estado actual de los dispositivos de red en el sistema, permitiendo verificar si la conexión Wi-Fi se ha establecido correctamente.
+
 Este proceso se ilustra en la siguiente imagen:
 
 ![Conexión a la red Wi-Fi utilizando `nmcli`](https://github.com/StevenRangels/Integracion_de_Contenedores_en_el_Portenta_X8_para_IoT_Mosquitto_Node-RED_InfluxDB_y_Grafana/blob/main/Images/6.Connect_wifi.png)
