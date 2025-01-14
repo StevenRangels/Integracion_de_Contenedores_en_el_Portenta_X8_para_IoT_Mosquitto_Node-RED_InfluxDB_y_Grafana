@@ -23,7 +23,7 @@ La implementación de los contenedores en el **Portenta X8** se llevó a cabo si
 
 Antes de continuar, es altamente recomendable **actualizar el sistema operativo** del **Portenta X8**. Las versiones antiguas suelen presentar errores que pueden afectar el desempeño general del dispositivo, especialmente en la ejecución y gestión de contenedores.
 
-Para realizar la actualización a la versión más reciente, visite el siguiente enlace oficial [https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/](https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/) (Marquínez, 2024), donde encontrará diversos métodos para actualizar su dispositivo.
+Para realizar la actualización a la versión más reciente, visite el siguiente enlace oficial: [https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/](https://docs.arduino.cc/tutorials/portenta-x8/image-flashing/) (Marquínez, 2024), donde encontrará diversos métodos para actualizar su dispositivo.
 
 Mantener el **Portenta X8** actualizado es esencial para asegurar un funcionamiento óptimo, aprovechar las últimas mejoras y aplicar correcciones de errores.
 
