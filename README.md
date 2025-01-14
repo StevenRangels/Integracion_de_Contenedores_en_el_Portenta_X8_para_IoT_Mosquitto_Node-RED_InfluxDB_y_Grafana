@@ -644,7 +644,7 @@ Este proceso se ilustra en la siguiente imagen:
 
 7. Configure el nodo `InfluxDB Out` en Node-RED:
 
-Configure el nodo `InfluxDB Out` haciendo clic sobre él y luego en el botón + para añadir la conexión a InfluxDB.
+Configure el nodo `InfluxDB Out` haciendo clic sobre él y luego en el botón `+` para añadir la conexión a InfluxDB.
 
 `Name`: Asigne un nombre a su preferencia, por ejemplo, `InfluxDB_Database`.
 
