@@ -514,7 +514,7 @@ Este proceso se ilustra en la siguiente imagen:
 
 *Pantalla para crear un bucket en InfluxDB.*
 
-Posteriormente asigna un nombre a tu base de datos. En mi caso, `IoT\_Database`. Asegúrate de configurar la opción `Delete Data` en `Never` para evitar que los datos se borren periódicamente. Luego, haz clic en el botón `Create` para crear el bucket.
+Posteriormente asigna un nombre a tu base de datos. En mi caso, `IoT_Database`. Asegúrate de configurar la opción `Delete Data` en `Never` para evitar que los datos se borren periódicamente. Luego, haz clic en el botón `Create` para crear el bucket.
 
 Este proceso se ilustra en la siguiente imagen:
 
