@@ -790,7 +790,7 @@ En la sección `Auth:`
 
 En la sección `InfluxDB Details:`
 
-`Organization:` Introduzca el nombre que usó al registrarse en InfluxDB.  
+`Organization:` Introduzca el nombre de la organización creada anteriormente.  
 
 `Token:` Pegue el token utilizado en Node-RED.  
 
