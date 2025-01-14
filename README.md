@@ -745,7 +745,9 @@ http://192.168.1.100:3000
 
 En este caso, `192.168.1.100` corresponde a la dirección IP estática asignada al dispositivo, y `3000` es el puerto predeterminado configurado anteriormente para Grafana.
 
-Al ingresar a la URL, se mostrará la pantalla principal de Grafana, donde puedes iniciar la configuración.
+Al ingresar a la URL, se mostrará la pantalla principal de Grafana, donde deberás ingresar tu nombre de usuario y contraseña para acceder. De forma predeterminada, el usuario es `admin` y la contraseña es `admin`.
+
+Es recomendable cambiar estas credenciales en la primera sesión para asegurar una mayor seguridad en el acceso al sistema. Una vez introducidas las credenciales, podrás iniciar la configuración y personalización de tu instancia de Grafana para crear y gestionar los dashboards y visualizaciones de tus datos.
 
 Este proceso se ilustra en la siguiente imagen:
 
