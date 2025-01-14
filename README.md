@@ -2,13 +2,13 @@
 
 ## Resumen
 
-Este proyecto describe la implementación de entornos en contenedores en **Portenta X8** para integrar herramientas esenciales de IoT como **Mosquitto**, **Node-RED**, **InfluxDB**, y **Grafana**. El proceso implica la instalación y configuración de contenedores individuales y la integración de un módulo **ESP32** para una transmisión de datos sin interrupciones. 
+Este proyecto describe la implementación de entornos en contenedores en **Portenta X8** para integrar herramientas esenciales de IoT como **Mosquitto**, **Node-RED**, **InfluxDB**, y **Grafana**. El proceso implica la instalación y configuración de contenedores individuales y la integración de un módulo **ESP32** para una transmisión de datos sin interrupción. 
 
 El sistema implementado muestra una solución escalable y eficiente para aplicaciones de IoT, que permite la visualización de datos en tiempo real y el almacenamiento seguro de datos. Los resultados clave demuestran la capacidad de **Portenta X8** como una plataforma robusta y versátil para el desarrollo avanzado de IoT.
 
 ## Introducción
 
-El **Internet de las Cosas (IoT)** ha transformado la forma en que interactuamos con el mundo digital, permitiendo la interconexión de dispositivos a través de internet para la recolección y análisis de datos en tiempo real. Este avance ha generado una necesidad creciente de soluciones tecnológicas que permitan la integración eficiente y la gestión de múltiples sistemas y dispositivos.
+El **Internet de las Cosas (IoT)** ha transformado la forma en que interactuamos con el mundo digital, permitiendo la interconexión de dispositivos a través de Internet para la recolección y análisis de datos en tiempo real. Este avance ha generado una necesidad creciente de soluciones tecnológicas que permitan la integración eficiente y la gestión de múltiples sistemas y dispositivos.
 
 En este contexto, los **contenedores** han emergido como una herramienta clave para la implementación de aplicaciones modulares y escalables. El uso de contenedores permite que diferentes aplicaciones y servicios se ejecuten de forma aislada, simplificando su administración, actualización y despliegue. Además, estos ofrecen una gran flexibilidad y eficiencia en entornos de IoT, donde la conectividad y el procesamiento de datos en tiempo real son cruciales.
 
@@ -18,8 +18,7 @@ El objetivo principal de este trabajo es presentar paso a paso cómo se realizó
 
 ## Metodología
 
-La implementación de los contenedores en el **Portenta X8** se llevó a cabo siguiendo un enfoque sistemático que involucró varios pasos clave. A continuación, se describen las etapas del proceso de instalación y configuración de los contenedores, así como las herramientas utilizadas. Cabe aclarar que este proceso se realizó en un entorno **Windows**, por lo que los comandos pueden variar si se utilizan otros sistemas operativos, como **macOS** o **Linux**.
-
+La implementación de los contenedores en el **Portenta X8** se llevó a cabo siguiendo un enfoque sistemático que involucró varios pasos clave. A continuación, se describen las etapas del proceso de instalación y configuración de los contenedores, así como las herramientas utilizadas. Cabe aclarar que este proceso se realizó en un entorno **Windows**. Los comandos pueden variar si se utilizan otros sistemas operativos.
 ## Actualización del Portenta X8
 
 Antes de continuar, es altamente recomendable **actualizar el sistema operativo** del **Portenta X8**. Las versiones antiguas suelen presentar errores que pueden afectar el desempeño general del dispositivo, especialmente en la ejecución de contenedores.
